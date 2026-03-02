@@ -1,0 +1,31 @@
+{
+  "name": "my-plugin",
+  "version": "0.0.1",
+  "description": "my-plugin",
+  "author": "Me",
+  "license": "Unknown",
+  "repo": "https://github.com/my/my-plugin",
+  "doc": "https://github.com/my/my-plugin",
+  "platforms": [
+    {
+      "os": "windows",
+      "arch": "amd64"
+    },
+    {
+      "os": "windows",
+      "arch": "x86"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64"
+    }
+  ],
+  "tags": [
+    "plugin",
+    "my"
+  ]
+}
